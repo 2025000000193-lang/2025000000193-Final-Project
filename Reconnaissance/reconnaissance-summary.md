@@ -1,4 +1,3 @@
-
 # Active Reconnaissance – Room Summary
 ## Overview
 This room introduced the fundamentals of *Active Reconnaissance*, where a tester directly interacts with a target system to gather information. Unlike passive recon, this approach generates traffic that can be logged, monitored, and potentially detected by security systems such as firewalls, IDS/IPS, and WAFs.
